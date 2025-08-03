@@ -23,7 +23,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?cabeza,godzilla,japan",
     "puntos": "10",
-    "icon": "city.png"
+    "icon": "godzilla.png"
   },
   {
     "id": "3",
@@ -75,7 +75,7 @@
     "respuesta_correcta": "Respuesta abierta",
     "img_url": "https://source.unsplash.com/600x400/?cuenta,farolillos,japan",
     "puntos": "5",
-    "icon": "city.png"
+    "icon": "farolillos.png"
   },
   {
     "id": "7",
@@ -127,7 +127,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?selfie,con,japan",
     "puntos": "10",
-    "icon": "city.png"
+    "icon": "hachiko-shibuya.png"
   },
   {
     "id": "11",
@@ -205,20 +205,20 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?barriles,sake,japan",
     "puntos": "10",
-    "icon": "food.png"
+    "icon": "sake.png"
   },
   {
     "id": "17",
     "day_id": "2",
     "orden": "9",
-    "titulo": "Godzilla rugiendo",
-    "tipo": "audio",
-    "pista": "Grabád el rugido del Godzilla en Kabukichō a la noche",
-    "dato_ninja": "La cabeza de Godzilla está a 50 m de altura, igual que la película de 1954",
+    "titulo": "Purificación ninja",
+    "tipo": "photo",
+    "pista": "Sacad una foto realizando el ritual de purificación en el temizuya del Santuario Meiji",
+    "dato_ninja": "n la tradición sintoísta, lavarse manos y boca en el temizuya ayuda a entrar limpio de cuerpo y espíritu al santuario",
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?godzilla,rugiendo,japan",
     "puntos": "5",
-    "icon": "city.png"
+    "icon": "Meiji.png"
   },
   {
     "id": "18",
@@ -231,7 +231,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?linterna,gigante,japan",
     "puntos": "10",
-    "icon": "city.png"
+    "icon": "torii-fushimi-inari.png"
   },
   {
     "id": "19",
@@ -244,7 +244,7 @@
     "respuesta_correcta": "5",
     "img_url": "https://source.unsplash.com/600x400/?pagoda,cinco,japan",
     "puntos": "5",
-    "icon": "temple.png"
+    "icon": "pagodasenso.png"
   },
   {
     "id": "20",
@@ -270,7 +270,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?senbei,exotico,japan",
     "puntos": "5",
-    "icon": "food.png"
+    "icon": "senbei.png"
   },
   {
     "id": "22",
@@ -387,7 +387,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?gyukatsu,delicioso,japan",
     "puntos": "5",
-    "icon": "food.png"
+    "icon": "guytatsu.png"
   },
   {
     "id": "31",
@@ -465,7 +465,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?bento,a,japan",
     "puntos": "5",
-    "icon": "food.png"
+    "icon": "bento.png"
   },
   {
     "id": "37",
@@ -504,7 +504,7 @@
     "respuesta_correcta": "Como un ruiseñor",
     "img_url": "https://source.unsplash.com/600x400/?suelo,ruisenor,japan",
     "puntos": "5",
-    "icon": "city.png"
+    "icon": "suelo.png"
   },
   {
     "id": "40",
@@ -543,7 +543,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?piedras,amor,japan",
     "puntos": "10",
-    "icon": "city.png"
+    "icon": "piedras.png"
   },
   {
     "id": "43",
@@ -556,7 +556,7 @@
     "respuesta_correcta": "Amor/Longevidad/Sabiduría",
     "img_url": "https://source.unsplash.com/600x400/?tres,chorros,japan",
     "puntos": "5",
-    "icon": "city.png"
+    "icon": "chorros.png"
   },
   {
     "id": "44",
@@ -569,7 +569,7 @@
     "respuesta_correcta": "1001",
     "img_url": "https://source.unsplash.com/600x400/?kannon,infinito,japan",
     "puntos": "5",
-    "icon": "temple.png"
+    "icon": "Kannon.png"
   },
   {
     "id": "45",
@@ -582,7 +582,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?torii,sin,japan",
     "puntos": "10",
-    "icon": "temple.png"
+    "icon": "torii.png"
   },
   {
     "id": "46",
@@ -595,7 +595,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?zorro,guardian,japan",
     "puntos": "10",
-    "icon": "city.png"
+    "icon": "kitsune-fushimi-inari.png"
   },
   {
     "id": "47",
@@ -634,7 +634,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?ginkakuji,arena,japan",
     "puntos": "10",
-    "icon": "nature.png"
+    "icon": "Ginkaku.png"
   },
   {
     "id": "50",
@@ -647,7 +647,7 @@
     "respuesta_correcta": "Respuesta abierta",
     "img_url": "https://source.unsplash.com/600x400/?campanas,eikando,japan",
     "puntos": "5",
-    "icon": "temple.png"
+    "icon": "Eikando.png"
   },
   {
     "id": "51",
@@ -712,7 +712,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?bosque,bambu,japan",
     "puntos": "10",
-    "icon": "nature.png"
+    "icon": "bambu.png"
   },
   {
     "id": "56",
@@ -725,7 +725,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?monos,traviesos,japan",
     "puntos": "10",
-    "icon": "animals.png"
+    "icon": "monkey.png"
   },
   {
     "id": "57",
@@ -738,7 +738,7 @@
     "respuesta_correcta": "Respuesta abierta",
     "img_url": "https://source.unsplash.com/600x400/?puente,togetsukyo,japan",
     "puntos": "5",
-    "icon": "nature.png"
+    "icon": "Togetsukyo.png"
   },
   {
     "id": "58",
@@ -764,7 +764,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?yuba,kaiseki,japan",
     "puntos": "5",
-    "icon": "food.png"
+    "icon": "kaiseki.png"
   },
   {
     "id": "60",
@@ -803,7 +803,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?glico,pose,japan",
     "puntos": "10",
-    "icon": "city.png"
+    "icon": "glico-osaka.png"
   },
   {
     "id": "63",
@@ -855,7 +855,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?kushikatsu,gusto,japan",
     "puntos": "5",
-    "icon": "food.png"
+    "icon": "palillos.png"
   },
   {
     "id": "67",
@@ -881,7 +881,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?rueda,don,japan",
     "puntos": "5",
-    "icon": "city.png"
+    "icon": "rueda.png"
   },
   {
     "id": "69",
@@ -894,7 +894,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?torres,shinsekai,japan",
     "puntos": "10",
-    "icon": "city.png"
+    "icon": "Tsutenkaku.png"
   },
   {
     "id": "70",
@@ -907,7 +907,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?kushikatsu,en,japan",
     "puntos": "5",
-    "icon": "food.png"
+    "icon": "kushikatsu.png"
   },
   {
     "id": "71",
@@ -1076,7 +1076,7 @@
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?torii,flotante,japan",
     "puntos": "10",
-    "icon": "temple.png"
+    "icon": "torii-miyajima.png"
   },
   {
     "id": "84",
@@ -1089,7 +1089,7 @@
     "respuesta_correcta": "Respuesta abierta",
     "img_url": "https://source.unsplash.com/600x400/?ciervos,amistosos,japan",
     "puntos": "5",
-    "icon": "animals.png"
+    "icon": "ciervos-miyajima.png"
   },
   {
     "id": "85",
