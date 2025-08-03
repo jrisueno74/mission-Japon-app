@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Misión Japón</title>
+    <!-- Google Fonts: Rounded and playful typography -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&family=Quicksand:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <h1>Misión Japón</h1>
+      <nav>
+        <button id="homeBtn" class="nav-btn" title="Inicio">Inicio</button>
+        <button id="badgesBtn" class="nav-btn" title="Logros">Logros</button>
+      </nav>
+    <!-- User info will be populated by script once the player has chosen a name and avatar -->
+    <div id="userInfo" class="header-user"></div>
+    </header>
+    <main id="app"></main>
+    <footer class="app-footer">
+      <small>
+        &#169; 2025 Aventura Japón &mdash; Esta aplicación funciona sin conexión y
+        guarda tu progreso en el dispositivo.
+      </small>
+    </footer>
+    <!-- Cargamos el script principal como módulo para poder importar Firebase y otras funciones modernamente -->
+    <script type="module" src="script.js"></script>
+  </body>
+</html>

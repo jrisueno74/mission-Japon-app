@@ -1,0 +1,121 @@
+[
+  {
+    "id": "1",
+    "fecha": "2025-08-08",
+    "ciudad_base": "Tokio (Shinjuku)",
+    "titulo": "Llegada y Shinjuku",
+    "intro": "Llegada a Narita/Haneda y primer contacto con Shinjuku: ramen, Godzilla Head y neones. "
+  },
+  {
+    "id": "2",
+    "fecha": "2025-08-09",
+    "ciudad_base": "Tokio (Shibuya/Harajuku)",
+    "titulo": "Shibuya y Harajuku",
+    "intro": "Cruce de Shibuya, Hachikō, Shibuya Sky, Nintendo Store, Capy Neko Café y Santuario Meiji."
+  },
+  {
+    "id": "3",
+    "fecha": "2025-08-10",
+    "ciudad_base": "Tokio (Asakusa/Toyosu)",
+    "titulo": "Asakusa & teamLab",
+    "intro": "Templo Sensō‑ji, Sumida Park, Harry Asakusa Otter Café, mercado Hoppy y teamLab Planets."
+  },
+  {
+    "id": "4",
+    "fecha": "2025-08-11",
+    "ciudad_base": "Tokio (Akihabara/Ueno)",
+    "titulo": "Akihabara y Ueno",
+    "intro": "Electric Town, Super Potato, Gyukatsu, Ueno Park, Ameya-Yokochō."
+  },
+  {
+    "id": "5",
+    "fecha": "2025-08-12",
+    "ciudad_base": "Kioto",
+    "titulo": "Traslado a Kioto",
+    "intro": "Shinkansen, Nishiki Market, castillo de Nijō, Gion y Pontocho."
+  },
+  {
+    "id": "6",
+    "fecha": "2025-08-13",
+    "ciudad_base": "Kioto",
+    "titulo": "Templos del este",
+    "intro": "Kiyomizu‑dera, Sanjusangendō, Fushimi Inari, calles tradicionales y gastronomía local."
+  },
+  {
+    "id": "7",
+    "fecha": "2025-08-14",
+    "ciudad_base": "Kioto",
+    "titulo": "Camino del filósofo",
+    "intro": "Ginkaku‑ji, Eikan‑do y Camino del filósofo, compras y matcha."
+  },
+  {
+    "id": "8",
+    "fecha": "2025-08-15",
+    "ciudad_base": "Kioto",
+    "titulo": "Arashiyama (sugerido)",
+    "intro": "Bosque de bambú de Arashiyama, Iwatayama Monkey Park y puente Togetsukyo."
+  },
+  {
+    "id": "9",
+    "fecha": "2025-08-16",
+    "ciudad_base": "Osaka",
+    "titulo": "Llegada a Osaka",
+    "intro": "Shinkansen, Osaka Castle, Dotonbori, Shinsaibashi y neones."
+  },
+  {
+    "id": "10",
+    "fecha": "2025-08-17",
+    "ciudad_base": "Osaka",
+    "titulo": "Shinsekai & Umeda",
+    "intro": "Shinsekai, Tsutenkaku, Kuromon Ichiba, Umeda Sky/Abeno Harukas y Aquarium Kaiyukan."
+  },
+  {
+    "id": "11",
+    "fecha": "2025-08-18",
+    "ciudad_base": "Osaka",
+    "titulo": "Universal Studios Japan",
+    "intro": "Día completo en USJ: Super Nintendo World, Harry Potter y Minion Park."
+  },
+  {
+    "id": "12",
+    "fecha": "2025-08-19",
+    "ciudad_base": "Miyajima",
+    "titulo": "Llegada a Miyajima",
+    "intro": "Tren a Hiroshima y ferry a Miyajima; Itsukushima Shrine, Daisho-in y Omotesando."
+  },
+  {
+    "id": "13",
+    "fecha": "2025-08-20",
+    "ciudad_base": "Miyajima/Hiroshima",
+    "titulo": "Monte Misen & Hiroshima",
+    "intro": "Ropeway a Monte Misen, vistas, okonomiyaki estilo Hiroshima y visita opcional a Hiroshima."
+  },
+  {
+    "id": "14",
+    "fecha": "2025-08-21",
+    "ciudad_base": "Tokio",
+    "titulo": "Regreso a Tokio",
+    "intro": "Shinkansen de regreso, descanso y paseo por Ikebukuro; cena de pesca en Zauo."
+  },
+  {
+    "id": "15",
+    "fecha": "2025-08-22",
+    "ciudad_base": "Tokio",
+    "titulo": "Excursión monte Fuji",
+    "intro": "Tour de Kawaguchi, Chureito Pagoda y Oshino Hakkai; vistas del Fuji."
+  },
+  {
+    "id": "16",
+    "fecha": "2025-08-23",
+    "ciudad_base": "Tokio",
+    "titulo": "Toyosu & Odaiba",
+    "intro": "Toyosu Fish Market, Odaiba (Gundam, Joypolis), souvenirs y cena ninja."
+  },
+  {
+    "id": "17",
+    "fecha": "2025-08-24",
+    "ciudad_base": "Tokio",
+    "titulo": "Regreso a España",
+    "intro": "Check-out y vuelo a Madrid; despedida de Japón."
+  }
+]
