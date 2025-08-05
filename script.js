@@ -20,7 +20,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyC6e2z56-Rn1759Kjl4ALCmgo9OierW_i4",
   authDomain: "misionjapon-fced6.firebaseapp.com",
   projectId: "misionjapon-fced6",
-  storageBucket: "misionjapon-fced6.appspot.com",
+  storageBucket: "misionjapon-fced6.firebasestorage.app",
   messagingSenderId: "106205770259",
   appId: "1:106205770259:web:0dd1ab8b3a47bc7086c5e6"
 };
