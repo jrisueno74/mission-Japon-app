@@ -679,14 +679,14 @@
     "id": "53",
     "day_id": "7",
     "orden": "5",
-    "titulo": "Jardín zen propio",
-    "tipo": "drawing",
-    "pista": "Dibujad vuestro propio jardín zen inspirándoos en los templos",
-    "dato_ninja": "Los jardines secos usan grava y rocas para representar paisajes naturales",
+    "titulo": "El Primer Corte Perfecto",
+    "tipo": "photo",
+    "pista": "Usad la espátula para cortar el primer trozo de vuestro okonomiyaki sin que se desmorone",
+    "dato_ninja": "En muchos restaurantes de okonomiyaki, cortar y servir bien es parte del ritual para disfrutarlo como un auténtico local",
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?jardin,zen,japan",
     "puntos": "5",
-    "icon": "temple.png"
+    "icon": "okono.png"
   },
   {
     "id": "54",
