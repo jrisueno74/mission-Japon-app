@@ -640,14 +640,14 @@
     "id": "50",
     "day_id": "7",
     "orden": "2",
-    "titulo": "Campanas de Eikan‑do",
-    "tipo": "quiz",
-    "pista": "¿Cuántas campanas podéis encontrar en el templo Eikan‑do?",
-    "dato_ninja": "Eikan‑do es famoso por su estatua de Amida mirando hacia atrás",
-    "respuesta_correcta": "Respuesta abierta",
+    "titulo": "Saludo al Ciervo",
+    "tipo": "photo",
+    "pista": "Acercaos a un ciervo en Nara y haced una reverencia para que os responda con otra.",
+    "dato_ninja": "En Nara, algunos ciervos han aprendido a inclinarse para pedir comida, especialmente galletas 'shika senbei'",
+    "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?campanas,eikando,japan",
     "puntos": "5",
-    "icon": "Eikando.png"
+    "icon": "deer.png"
   },
   {
     "id": "51",
