@@ -45,14 +45,14 @@
     "id": "7",
     "fecha": "2025-08-14",
     "ciudad_base": "Kioto",
-    "titulo": "Camino del filósofo",
-    "intro": "Ginkaku‑ji, Eikan‑do y Camino del filósofo, compras y matcha."
+    "titulo": "Camino Filósofo y Nara",
+    "intro": "Ginkaku‑ji, Camino del filósofo, parque de Nara y templo Toda-ji."
   },
   {
     "id": "8",
     "fecha": "2025-08-15",
     "ciudad_base": "Kioto",
-    "titulo": "Arashiyama (sugerido)",
+    "titulo": "Arashiyama",
     "intro": "Bosque de bambú de Arashiyama, Iwatayama Monkey Park y puente Togetsukyo."
   },
   {
