@@ -692,14 +692,14 @@
     "id": "54",
     "day_id": "7",
     "orden": "6",
-    "titulo": "Grulla y sakura",
+    "titulo": "Pasaje de la Iluminación",
     "tipo": "photo",
-    "pista": "Buscad un souvenir con grullas o flores de cerezo y sacad foto",
-    "dato_ninja": "La grulla (tsuru) simboliza longevidad y buena suerte",
+    "pista": "Atravesad el agujero en la base de un pilar del Tōdai-ji. Se dice que quien lo cruza alcanza la iluminación en la próxima vida",
+    "dato_ninja": "El agujero tiene el mismo tamaño que la nariz del Gran Buda (unos 37 cm de diámetro)",
     "respuesta_correcta": "",
     "img_url": "https://source.unsplash.com/600x400/?grulla,sakura,japan",
     "puntos": "5",
-    "icon": "city.png"
+    "icon": "pasaje.png"
   },
   {
     "id": "55",
